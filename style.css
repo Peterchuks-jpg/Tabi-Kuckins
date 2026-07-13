@@ -422,3 +422,48 @@ footer p{
     background:#ffffff;
     color:#5E2B97;
 }
+/* Premium Hero */
+
+.hero h4{
+    color:#D4AF37;
+    letter-spacing:8px;
+    margin-bottom:15px;
+    font-size:18px;
+}
+
+.hero h1{
+    font-size:80px;
+    font-weight:700;
+    text-transform:uppercase;
+}
+
+.hero h2{
+    font-size:35px;
+    color:#D4AF37;
+    margin:20px 0;
+}
+
+.hero p{
+    max-width:700px;
+    line-height:1.8;
+    margin-bottom:40px;
+}
+
+.scroll-down{
+    margin-top:70px;
+    color:white;
+    font-size:18px;
+    animation:bounce 2s infinite;
+}
+
+@keyframes bounce{
+
+0%,100%{
+transform:translateY(0);
+}
+
+50%{
+transform:translateY(12px);
+}
+
+}
