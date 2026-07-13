@@ -243,5 +243,18 @@ footer p{
 margin-top:10px;
 
 color:#D4AF37;
+footer p{
+    margin-top:10px;
+    color:#D4AF37;
+}
 
+/* PASTE THE MENU CSS BELOW THIS LINE */
+
+.menu{
+    padding:80px 10%;
+    background:#ffffff;
+    text-align:center;
+}
+
+/* ...continue with the rest of the menu CSS... */
 }
