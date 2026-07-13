@@ -372,3 +372,53 @@ footer p{
     transform:scale(1.1);
 }
 }
+/* Reservation Section */
+
+.reservation{
+    background:#5E2B97;
+    color:white;
+    padding:80px 20px;
+    text-align:center;
+}
+
+.reservation h2{
+    font-size:42px;
+    margin-bottom:15px;
+}
+
+.reservation p{
+    margin-bottom:35px;
+    font-size:18px;
+}
+
+.reservation form{
+    max-width:600px;
+    margin:auto;
+    display:flex;
+    flex-direction:column;
+    gap:15px;
+}
+
+.reservation input{
+    padding:15px;
+    border:none;
+    border-radius:8px;
+    font-size:16px;
+}
+
+.reservation button{
+    background:#D4AF37;
+    color:white;
+    border:none;
+    padding:15px;
+    border-radius:8px;
+    font-size:18px;
+    font-weight:bold;
+    cursor:pointer;
+    transition:0.3s;
+}
+
+.reservation button:hover{
+    background:#ffffff;
+    color:#5E2B97;
+}
