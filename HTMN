@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabi Kuckins</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+    <h1>🍪 Tabi Kuckins</h1>
+    <p>Freshly Baked Happiness in Every Bite</p>
+
+    <a href="https://wa.me/2340000000000" class="button">
+        Order on WhatsApp
+    </a>
+</header>
+
+<section class="about">
+    <h2>About Us</h2>
+
+    <p>
+        At Tabi Kuckins, we create handcrafted cookies and baked treats using
+        premium ingredients. Every batch is baked fresh with love, making every
+        bite unforgettable.
+    </p>
+</section>
+
+<section class="menu">
+    <h2>Our Menu</h2>
+
+    <div class="card">
+        <h3>🍪 Chocolate Chip Cookies</h3>
+    </div>
+
+    <div class="card">
+        <h3>❤️ Red Velvet Cookies</h3>
+    </div>
+
+    <div class="card">
+        <h3>🧈 Butter Cookies</h3>
+    </div>
+
+    <div class="card">
+        <h3>🎁 Mixed Cookie Box</h3>
+    </div>
+
+    <div class="card">
+        <h3>🧁 Cupcakes</h3>
+    </div>
+
+    <div class="card">
+        <h3>🎂 Celebration Cakes</h3>
+    </div>
+</section>
+
+<section class="why">
+    <h2>Why Choose Tabi Kuckins?</h2>
+
+    <ul>
+        <li>✅ Freshly Baked Daily</li>
+        <li>✅ Premium Ingredients</li>
+        <li>✅ Affordable Prices</li>
+        <li>✅ Fast Delivery</li>
+        <li>✅ Custom Orders</li>
+    </ul>
+</section>
+
+<section class="reviews">
+    <h2>Customer Reviews</h2>
+
+    <div class="review">
+        ⭐⭐⭐⭐⭐
+        <p>"The best cookies I've ever tasted!"</p>
+    </div>
+
+    <div class="review">
+        ⭐⭐⭐⭐⭐
+        <p>"Fresh, soft and absolutely delicious."</p>
+    </div>
+
+    <div class="review">
+        ⭐⭐⭐⭐⭐
+        <p>"Amazing customer service!"</p>
+    </div>
+</section>
+
+<section class="contact">
+    <h2>Contact</h2>
+
+    <p>📞 +234 XXX XXX XXXX</p>
+
+    <p>📧 hello@tabikuckins.com</p>
+
+    <p>📍 Nigeria</p>
+</section>
+
+<footer>
+    © 2026 Tabi Kuckins. All Rights Reserved.
+</footer>
+
+</body>
+</html>
