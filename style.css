@@ -122,7 +122,9 @@ body{
     font-size:18px;
     margin-bottom:15px;
 }
-
+.hero{
+    background:url("hero.jpg") center center/cover no-repeat;
+}
 .hero h1{
     font-size:72px;
     font-weight:700;
